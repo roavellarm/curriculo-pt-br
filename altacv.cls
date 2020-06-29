@@ -69,7 +69,7 @@
   {\end{adjustwidth}}
 
 \newcommand{\emailsymbol}{\faAt}
-\newcommand{\phonesymbol}{\faPhone}
+\newcommand{\phonesymbol}{\faWhatsapp}
 \newcommand{\homepagesymbol}{\faChain}
 \newcommand{\locationsymbol}{\faMapMarker}
 \newcommand{\linkedinsymbol}{\faLinkedin}
